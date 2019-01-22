@@ -1,1 +1,0 @@
-# pku_acm_summerschool
